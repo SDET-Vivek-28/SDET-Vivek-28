@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Vivek Mote
 
-<!--
-**SDET-Vivek-28/SDET-Vivek-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Sr. QA Automation Engineer with 3.5+ years of experience in:
+- Test Automation Framework Development
+- API Testing (Postman, RestAssured)
+- Performance Testing (JMeter)
+- Mobile Testing (Android/iOS)
+- Cloud & CI/CD (AWS, Azure DevOps, Jenkins)
+- Exploring AI in Testing & Cybersecurity
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+- **Languages:** Java, JavaScript, Python
+- **Automation Tools:** Selenium, WebdriverIO, Playwright
+- **API Testing:** Postman, Swagger, Karate DSL
+- **Performance Testing:** JMeter
+- **DevOps:** Jenkins, Azure DevOps
+- **Cloud:** AWS S3
+- **AI Tools:** ChatGPT, GitHub Copilot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
